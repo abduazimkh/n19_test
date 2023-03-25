@@ -1,0 +1,7 @@
+task 01:
+
+git clone https://github.com/alisherkasimovv/n19_test.git
+mkdir (name).txt
+git add .
+git commit .
+git push
