@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 2
 3
@@ -8,5 +9,22 @@
 8
 9
 0
+=======
+DEV
+TEST
+PROD
+>>>>>>> alpha
 
 This text was written first.
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
